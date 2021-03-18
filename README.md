@@ -1,4 +1,4 @@
-# SimpleITK-registration-documentation
+# SimpleITK Registration for Points (cloud points):
 SimpleITK Registration for point transformation
 SimpleITK Registration for Points (cloud points):
 
